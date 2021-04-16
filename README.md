@@ -1,4 +1,4 @@
-# Bootstrap 4 project created as requirement for a Coursera course
+# Bootstrap 3 project created as requirement for a Coursera course
 The link to the finished project is provided below:
 
 Module3 Solution: A simple responsive webpage that brings up a hamburger menu for device screen width < 768px
